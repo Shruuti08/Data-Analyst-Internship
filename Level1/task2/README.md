@@ -1,6 +1,6 @@
 # Internship - Level 1, Task 2
 
-Welcome to my repository for **Level 1 - Task 2: Descriptive Analysis**, completed during my internship with **Cognifyz Technologies**.
+Welcome to my repository for **Level 1 - Task 2: Descriptive Analysis**.
 
 ## 📌 Task Objective
 The primary objective of this task was to perform exploratory data analysis (EDA) to understand the underlying structure of the dataset, calculate core statistical values, and identify key operational trends.
