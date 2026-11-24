@@ -1,4 +1,4 @@
-# Cognifyz Data Science Internship - Level 1, Task 2
+# Internship - Level 1, Task 2
 
 Welcome to my repository for **Level 1 - Task 2: Descriptive Analysis**, completed during my internship with **Cognifyz Technologies**.
 
